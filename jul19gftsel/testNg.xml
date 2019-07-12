@@ -1,0 +1,24 @@
+<suite name="TestSuite" verbose="1" >
+  <test name="Regression1" >
+    <classes>
+       <class name="com.sele.testng.DemoTestNg" />
+       <class name="com.sele.testng.DemoTestng2" />
+     
+    </classes>
+    </test>
+     <test name="Regression3" >
+    <classes>
+       <class name="com.sele.testng.DemoTestNg" />
+       <class name="com.sele.testng.DemoTestng2" />
+     
+    </classes>
+   
+  
+  </test>
+  
+  
+
+ 
+ 
+  
+</suite>
